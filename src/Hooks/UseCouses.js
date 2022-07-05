@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const UseCouses = () => {
-	const [courses, setCourses] =useState();
+	const [courses, setCourses] =useState([]);
 	const [isLoad, setIsLoad] = useState(true)
 	useEffect(() => {
 		fetch('data/courses.json')

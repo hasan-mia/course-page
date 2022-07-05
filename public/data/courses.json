@@ -1,13 +1,26 @@
 [
   {
-    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "id": "1",
     "title": "Summer Art Camp!5 Days of Artist and Painting Moment, Van Gogh, Matisse & More",
     "category": "Multy-Day-Courses",
     "seller": "Kimberly R Moseler",
-    "seller-img": "https://placeimg.com/80/80/people",
+    "seller_img": "https://placeimg.com/80/80/people",
     "description": "In this 5 days class will explore artis, Matisse, Van Gogh, among others and recrate paintings using crayon and watercolor.Students will have fun learning about the artis & creating their own art inspired by their work",
-    "t-rating": 467,
-    "s-rating": 5,
+    "t_rating": 467,
+    "s_rating": 5,
+    "img1": "https://placeimg.com/260/400/arch",
+    "img2": "https://placeimg.com/260/400/arch",
+    "img3": "https://placeimg.com/260/400/arch"
+  },
+  {
+    "id": "2",
+    "title": "2Summer Art Camp!5 Days of Artist and Painting Moment, Van Gogh, Matisse & More",
+    "category": "Multy-Day-Courses",
+    "seller": "Kimberly R Moseler",
+    "seller_img": "https://placeimg.com/80/80/people",
+    "description": "In this 5 days class will explore artis, Matisse, Van Gogh, among others and recrate paintings using crayon and watercolor.Students will have fun learning about the artis & creating their own art inspired by their work",
+    "t_rating": 467,
+    "s_rating": 5,
     "img1": "https://placeimg.com/260/400/arch",
     "img2": "https://placeimg.com/260/400/arch",
     "img3": "https://placeimg.com/260/400/arch"
